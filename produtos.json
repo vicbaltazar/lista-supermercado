@@ -1,0 +1,461 @@
+[
+  {
+    "title": "Ovos marrons",
+    "type": "dairy",
+    "description": "Ovos marrons orgânicos crus em uma cesta",
+    "height": 600,
+    "width": 400,
+    "price": 28.1,
+    "rating": 4
+  },
+  {
+    "title": "Morango doce fresco",
+    "type": "fruit",
+    "description": "Morango doce fresco sobre a mesa de madeira",
+    "height": 450,
+    "width": 299,
+    "price": 29.45,
+    "rating": 4
+  },
+  {
+    "title": "Aspargos",
+    "type": "vegetable",
+    "description": "Aspargos com presunto sobre a mesa de madeira",
+    "height": 450,
+    "width": 299,
+    "price": 18.95,
+    "rating": 3
+  },
+  {
+    "title": "Smoothie verde",
+    "type": "dairy",
+    "description": "Copo de smoothie verde com gema de ovo de codorna, servido com canudo, maçã verde e folhas de espinafre baby sobre superfície de metal",
+    "height": 600,
+    "width": 399,
+    "price": 17.68,
+    "rating": 4
+  },
+  {
+    "title": "Legumes crus",
+    "type": "vegetable",
+    "description": "Legumes crus sobre a mesa de madeira",
+    "height": 450,
+    "width": 299,
+    "price": 17.11,
+    "rating": 2
+  },
+  {
+    "title": "Assando bolo",
+    "type": "dairy",
+    "description": "Preparando bolo em cozinha rústica - ingredientes da massa (ovos, farinha, açúcar) em mesa de madeira vista de cima",
+    "height": 450,
+    "width": 675,
+    "price": 11.14,
+    "rating": 4
+  },
+  {
+    "title": "Pesto com manjericão",
+    "type": "vegetable",
+    "description": "Pesto tradicional italiano com manjericão, queijo e óleo",
+    "height": 450,
+    "width": 299,
+    "price": 18.19,
+    "rating": 2
+  },
+  {
+    "title": "Avelãs em tigela de cerâmica preta",
+    "type": "vegetable",
+    "description": "Avelãs em tigela de cerâmica preta sobre mesa de madeira antiga. riqueza da floresta. estilo rústico. foco seletivo",
+    "height": 450,
+    "width": 301,
+    "price": 27.35,
+    "rating": 0
+  },
+  {
+    "title": "Morango fresco",
+    "type": "fruit",
+    "description": "Morango doce fresco sobre a mesa de madeira",
+    "height": 600,
+    "width": 399,
+    "price": 28.59,
+    "rating": 4
+  },
+  {
+    "title": "Limão e sal",
+    "type": "fruit",
+    "description": "Alecrim, limão e sal sobre a mesa",
+    "height": 450,
+    "width": 299,
+    "price": 15.79,
+    "rating": 5
+  },
+  {
+    "title": "Pão caseiro",
+    "type": "bakery",
+    "description": "Pão caseiro",
+    "height": 450,
+    "width": 301,
+    "price": 17.48,
+    "rating": 3
+  },
+  {
+    "title": "Legumes",
+    "type": "vegetable",
+    "description": "Legumes cozidos sobre a mesa de madeira",
+    "height": 600,
+    "width": 399,
+    "price": 14.77,
+    "rating": 0
+  },
+  {
+    "title": "Tomate fresco",
+    "type": "vegetable",
+    "description": "Suco de tomate fresco com manjericão",
+    "height": 600,
+    "width": 903,
+    "price": 16.3,
+    "rating": 2
+  },
+  {
+    "title": "Café da manhã saudável",
+    "type": "fruit",
+    "description": "Conjunto de café da manhã saudável. cereal de arroz ou mingau com frutas vermelhas e mel sobre fundo rústico de madeira",
+    "height": 450,
+    "width": 350,
+    "price": 13.02,
+    "rating": 2
+  },
+  {
+    "title": "Vagem verde",
+    "type": "vegetable",
+    "description": "Vagens verdes orgânicas cruas prontas para comer",
+    "height": 450,
+    "width": 300,
+    "price": 28.79,
+    "rating": 1
+  },
+  {
+    "title": "Cogumelos portobello recheados assados",
+    "type": "bakery",
+    "description": "Cogumelos portobello recheados caseiros assados com espinafre e queijo",
+    "height": 600,
+    "width": 400,
+    "price": 20.31,
+    "rating": 1
+  },
+  {
+    "title": "Geleia de morango",
+    "type": "fruit",
+    "description": "Geleia de morango orgânica caseira em um pote",
+    "height": 400,
+    "width": 600,
+    "price": 14.18,
+    "rating": 1
+  },
+  {
+    "title": "Suco de peras",
+    "type": "fruit",
+    "description": "Suco de peras fresco sobre a mesa de madeira",
+    "height": 600,
+    "width": 398,
+    "price": 19.49,
+    "rating": 4
+  },
+  {
+    "title": "Peras frescas",
+    "type": "fruit",
+    "description": "Peras doces frescas sobre a mesa de madeira",
+    "height": 600,
+    "width": 398,
+    "price": 15.12,
+    "rating": 5
+  },
+  {
+    "title": "Salada caprese",
+    "type": "vegetable",
+    "description": "Salada caprese saudável caseira com tomate, muçarela e manjericão",
+    "height": 400,
+    "width": 600,
+    "price": 16.76,
+    "rating": 5
+  },
+  {
+    "title": "Laranjas",
+    "type": "fruit",
+    "description": "Picolés de laranja feitos com laranjas frescas. um refrescante lanche de verão",
+    "height": 450,
+    "width": 274,
+    "price": 21.48,
+    "rating": 4
+  },
+  {
+    "title": "Comida vegana",
+    "type": "vegetable",
+    "description": "Conceito de comida vegana",
+    "height": 450,
+    "width": 299,
+    "price": 29.66,
+    "rating": 4
+  },
+  {
+    "title": "Café da manhã com muesli",
+    "type": "dairy",
+    "description": "Conceito de café da manhã saudável com muesli",
+    "height": 450,
+    "width": 299,
+    "price": 22.7,
+    "rating": 2
+  },
+  {
+    "title": "Mel",
+    "type": "bakery",
+    "description": "Mel e favo de mel sobre a mesa",
+    "height": 450,
+    "width": 299,
+    "price": 17.01,
+    "rating": 2
+  },
+  {
+    "title": "Café da manhã com cottage",
+    "type": "fruit",
+    "description": "Café da manhã saudável com queijo cottage e morango",
+    "height": 600,
+    "width": 398,
+    "price": 14.05,
+    "rating": 1
+  },
+  {
+    "title": "Smoothie de morango",
+    "type": "fruit",
+    "description": "Copo de smoothie de morango vermelho com sementes de chia, servido com canudo retrô, hortelã fresca e morangos sobre fundo escuro",
+    "height": 600,
+    "width": 400,
+    "price": 28.86,
+    "rating": 2
+  },
+  {
+    "title": "Morango e hortelã",
+    "type": "fruit",
+    "description": "Muesli caseiro com morango e hortelã",
+    "height": 450,
+    "width": 299,
+    "price": 26.21,
+    "rating": 4
+  },
+  {
+    "title": "Ricota",
+    "type": "dairy",
+    "description": "Ricota com frutas vermelhas e hortelã",
+    "height": 600,
+    "width": 398,
+    "price": 27.81,
+    "rating": 5
+  },
+  {
+    "title": "Sanduíche cubano",
+    "type": "bakery",
+    "description": "Sanduíches cubanos tradicionais caseiros com presunto, porco e queijo",
+    "height": 450,
+    "width": 300,
+    "price": 18.5,
+    "rating": 4
+  },
+  {
+    "title": "Granola",
+    "type": "dairy",
+    "description": "Pote de vidro com granola caseira e iogurte com nozes, framboesas e amoras sobre tábua de madeira com tecido branco à luz do dia",
+    "height": 450,
+    "width": 300,
+    "price": 29.97,
+    "rating": 3
+  },
+  {
+    "title": "Smoothie com sementes de chia",
+    "type": "fruit",
+    "description": "Copo de smoothie de morango vermelho com sementes de chia, servido com canudo retrô, hortelã fresca e morangos sobre mesa de madeira",
+    "height": 600,
+    "width": 900,
+    "price": 25.26,
+    "rating": 5
+  },
+  {
+    "title": "Iogurte",
+    "type": "dairy",
+    "description": "Iogurte caseiro com framboesa e hortelã",
+    "height": 450,
+    "width": 299,
+    "price": 27.61,
+    "rating": 4
+  },
+  {
+    "title": "Sanduíche com salada",
+    "type": "vegetable",
+    "description": "Sanduíche vegano com salada, tomate e rabanete",
+    "height": 600,
+    "width": 398,
+    "price": 22.48,
+    "rating": 5
+  },
+  {
+    "title": "Cerejas",
+    "type": "fruit",
+    "description": "Cerejas com açúcar sobre mesa antiga",
+    "height": 600,
+    "width": 400,
+    "price": 14.35,
+    "rating": 5
+  },
+  {
+    "title": "Aspargos crus",
+    "type": "vegetable",
+    "description": "Salada de aspargos frescos crus com queijo e molho",
+    "height": 600,
+    "width": 400,
+    "price": 22.97,
+    "rating": 4
+  },
+  {
+    "title": "Milho",
+    "type": "vegetable",
+    "description": "Milho na espiga grelhado com sal e manteiga",
+    "height": 450,
+    "width": 300,
+    "price": 13.55,
+    "rating": 2
+  },
+  {
+    "title": "Vegano",
+    "type": "vegan",
+    "description": "Conceito de alimentação vegana saudável",
+    "height": 600,
+    "width": 398,
+    "price": 28.96,
+    "rating": 5
+  },
+  {
+    "title": "Mirtilos frescos",
+    "type": "fruit",
+    "description": "Café da manhã saudável. crumble de frutas vermelhas com mirtilos, framboesas, morangos, amêndoas, nozes, nozes-pecã, iogurte e hortelã em pratos de cerâmica sobre superfície de madeira branca, vista de cima",
+    "height": 450,
+    "width": 321,
+    "price": 21.01,
+    "rating": 4
+  },
+  {
+    "title": "Abacate amassado",
+    "type": "fruit",
+    "description": "Sanduíches veganos com abacate amassado, tomates e rabanete. vista de cima",
+    "height": 450,
+    "width": 450,
+    "price": 25.88,
+    "rating": 0
+  },
+  {
+    "title": "Ciabatta italiana",
+    "type": "bakery",
+    "description": "Pão ciabatta italiano cortado em fatias sobre tábua de corte de madeira com ervas, alho e azeitonas sobre fundo escuro rústico, vista de cima",
+    "height": 450,
+    "width": 565,
+    "price": 15.18,
+    "rating": 1
+  },
+  {
+    "title": "Café da manhã rústico",
+    "type": "dairy",
+    "description": "Conjunto de café da manhã rústico saudável. trigo sarraceno cozido com leite e mel sobre fundo escuro rústico. vista de cima, espaço para texto",
+    "height": 450,
+    "width": 307,
+    "price": 21.32,
+    "rating": 0
+  },
+  {
+    "title": "Rodelas de limão",
+    "type": "fruit",
+    "description": "Montinho de limões e limas inteiros e fatiados com hortelã em cesta metálica sobre mesa de madeira antiga com fundo de madeira turquesa. estilo rústico escuro",
+    "height": 600,
+    "width": 900,
+    "price": 27.14,
+    "rating": 2
+  },
+  {
+    "title": "Ameixas",
+    "type": "fruit",
+    "description": "Ameixas doces amarelas e vermelhas",
+    "height": 450,
+    "width": 299,
+    "price": 19.18,
+    "rating": 1
+  },
+  {
+    "title": "Batatas fritas",
+    "type": "bakery",
+    "description": "Batatas fritas ao forno caseiras com ketchup",
+    "height": 600,
+    "width": 400,
+    "price": 18.32,
+    "rating": 3
+  },
+  {
+    "title": "Morangos",
+    "type": "fruit",
+    "description": "Conjunto de café da manhã saudável. cereal de arroz ou mingau com morangos frescos, damascos, amêndoas e mel sobre fundo rústico de madeira branca, vista de cima",
+    "height": 450,
+    "width": 352,
+    "price": 15.13,
+    "rating": 3
+  },
+  {
+    "title": "Hambúrguer de carne moída",
+    "type": "meat",
+    "description": "Bifes de hambúrguer de carne bovina moída crua com tempero sobre tábuas de madeira vintage, fundo preto",
+    "height": 450,
+    "width": 675,
+    "price": 11.73,
+    "rating": 5
+  },
+  {
+    "title": "Tomates",
+    "type": "fruit",
+    "description": "Tomates orgânicos feitos com amor",
+    "height": 450,
+    "width": 675,
+    "price": 26.03,
+    "rating": 4
+  },
+  {
+    "title": "Manjericão",
+    "type": "vegetable",
+    "description": "Conceito de comida vegana com manjericão",
+    "height": 450,
+    "width": 678,
+    "price": 15.19,
+    "rating": 4
+  },
+  {
+    "title": "Buquê de frutas",
+    "type": "fruit",
+    "description": "Buquê abstrato de frutas cítricas em fundo azul",
+    "height": 600,
+    "width": 401,
+    "price": 18.18,
+    "rating": 1
+  },
+  {
+    "title": "Pêssegos no galho",
+    "type": "fruit",
+    "description": "Pêssegos no galho com folhas e copos com suco de pêssego e limonada com cubos de gelo em bandeja de alumínio sobre mesa metálica antiga. estilo rústico escuro. vista de cima",
+    "height": 600,
+    "width": 400,
+    "price": 25.62,
+    "rating": 3
+  },
+  {
+    "title": "Sachê de comida para gato",
+    "type": "pet",
+    "description": "Sachê de alimento úmido para gatos, sabor frango ao molho",
+    "height": 400,
+    "width": 400,
+    "price": 4.5,
+    "rating": 5
+  }
+]
