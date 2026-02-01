@@ -21,12 +21,10 @@ Fácil de estender pra mais filtros ou categorias novas.
 Clone o repositório
 
 git clone https://github.com/vicbaltazar/lista-supermercado.git
-
 cd lista-supermercado
 
 Instale dependências (opcional)
-
-Não há dependências externas fora da biblioteca padrão.
+.Não há dependências externas fora da biblioteca padrão.
 
 Rode o programa
 
