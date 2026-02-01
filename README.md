@@ -20,28 +20,15 @@ Esse projeto lê um arquivo produtos.json, filtra os produtos por rating mínimo
 git clone https://github.com/vicbaltazar/lista-supermercado.git
 cd lista-supermercado
 
-Instale dependências (opcional)
-
-Não há dependências externas fora da biblioteca padrão.
-
-Rode o programa
-
-python lista.py
-O script vai carregar produtos.json e imprimir a lista organizada com totais.
-
 ## 📄 Estrutura do projeto
-.
-├── produtos.json
-├── lista.py
-└── README.md
 
-## 🧠 Como funciona
-O programa:
+- produtos.json
+- lista.py
+- README.md
 
-Lê os produtos de produtos.json.
+## 🧠 Como funciona o programa:
 
-Filtra por rating mínimo.
-
-Agrupa por categorias como "Café da Manhã", "Bebidas", "Pet", etc.
-
-Mostra no terminal com totais por grupo e geral.
+- Lê os produtos de produtos.json.
+- Filtra por rating mínimo.
+- Agrupa por categorias como "Café da Manhã", "Bebidas", "Pet", etc.
+- Mostra no terminal com totais por grupo e geral.
