@@ -21,6 +21,7 @@ Fácil de estender pra mais filtros ou categorias novas.
 Clone o repositório
 
 git clone https://github.com/vicbaltazar/lista-supermercado.git
+
 cd lista-supermercado
 
 Instale dependências (opcional)
@@ -32,12 +33,6 @@ Rode o programa
 python lista.py
 
 O script vai carregar produtos.json e imprimir a lista organizada com totais.
-
-## 📄 Estrutura do projeto
-.
-├── produtos.json        # Dados de produtos usados como base
-├── lista.py             # Script principal
-└── README.md            # Este arquivo
 
 ## 🧠 Como funciona
 
