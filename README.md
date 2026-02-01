@@ -31,9 +31,9 @@ O script vai carregar produtos.json e imprimir a lista organizada com totais.
 
 ## 📄 Estrutura do projeto
 .
-├── produtos.json        # Dados de produtos usados como base
-├── lista.py             # Script principal
-└── README.md            # Este arquivo
+├── produtos.json
+├── lista.py
+└── README.md
 
 ## 🧠 Como funciona
 O programa:
